@@ -9,6 +9,7 @@
 
         public static void PrintStory()
         {
+            //declare variables which will be used to store user input
             string yourName = " ";
             string friendName = " ";
             string yourFavoriteFood = " ";
@@ -16,6 +17,7 @@
             string streetName = " ";
             string otherStreetName = " ";
             
+            //receive input from user and store to variables
             Console.WriteLine("What is your name?");
             yourName = Console.ReadLine();
             
@@ -34,7 +36,7 @@
             Console.WriteLine("What is the name of another street near where you live?");
             otherStreetName = Console.ReadLine();
 
-            
+            //print story to console utilizing input received from user
             Console.WriteLine("\tFeeling a mild pang of hunger, you decide it's time to go grab some lunch.  You set off down ");
             Console.WriteLine($"to the corner market on {streetName} to see if they have your all-time favorite, {yourFavoriteFood}. ");
             Console.WriteLine("After a moderate walk, and feeling hungrier by the moment, you finally arrive at your destination ");

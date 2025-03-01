@@ -1,0 +1,15 @@
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\bin\Debug\net9.0\Math Methods.exe
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\bin\Debug\net9.0\Math Methods.deps.json
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\bin\Debug\net9.0\Math Methods.runtimeconfig.json
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\bin\Debug\net9.0\Math Methods.dll
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\bin\Debug\net9.0\Math Methods.pdb
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.AssemblyInfoInputs.cache
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.AssemblyInfo.cs
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.csproj.CoreCompileInputs.cache
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.sourcelink.json
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.dll
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\refint\Math Methods.dll
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.pdb
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\Math Methods.genruntimeconfig.cache
+C:\Users\dpage\OneDrive\Desktop\Repos\MethodsExercise\Math Methods\obj\Debug\net9.0\ref\Math Methods.dll
